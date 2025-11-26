@@ -8,6 +8,10 @@
 ![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react)
 ![Semantic Search](https://img.shields.io/badge/Search-SentenceTransformers-blue?style=for-the-badge&logo=pytorch)
 
+
+https://github.com/user-attachments/assets/957f23ee-657c-4114-89d0-8ceca74dcfa4
+
+
 <br>
 <p align="center">
   PaperSense is an intelligent, local-first search engine built for students, researchers, and professionals who need Google-like search capabilities within their private document collection.
